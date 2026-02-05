@@ -65,13 +65,10 @@ You can edit `input.txt` and `rules.txt` and re-run to see different outputs.
 - The project is intentionally small — most logic lives in `rules.py` and `main.py`.
 - If you modify rule parsing or the applier logic, add quick examples in `input.txt` and `rules.txt` to validate behaviour.
 
-## Contributing
-
-Contributions are welcome — open an issue or a PR with a clear description and minimal repro steps.
-
 ## License
 
 This project is provided as-is; add a license file if you plan to publish it publicly.
+
 Program to apply sound changes in the format x/y/_ where:
 x - original sound
 y - output sound
